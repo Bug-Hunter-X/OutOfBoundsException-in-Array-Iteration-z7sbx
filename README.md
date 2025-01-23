@@ -1,0 +1,1 @@
+This repository contains a Java program demonstrating an IndexOutOfBoundsException. The bug is in the for loop, which iterates one time more than the array's valid index range. The solution demonstrates a corrected loop and includes error handling. 
